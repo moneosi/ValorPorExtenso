@@ -41,7 +41,7 @@ namespace ValorPorExtenso
 			{14,"quatorze"},
 			{15,"quinze"},
 			{16,"dezesseis"},
-			{17,"dezesete"},
+			{17,"dezessete"},
 			{18,"dezoito"},
 			{19,"dezenove"}
 		};
